@@ -22,6 +22,30 @@
       "revId": "f625a31520ee19b95000d690724cd65cfb8cee00",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f0e0f27_7afe5506",
+        "filename": "rootdir/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-08-04T02:34:26Z",
+      "side": 0,
+      "message": "typo :p etc/nof2fsfstab.qcom",
+      "parentUuid": "9f0e0f27_f70cc043",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 26,
+        "endChar": 25
+      },
+      "revId": "f625a31520ee19b95000d690724cd65cfb8cee00",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
