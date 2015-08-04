@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f0e0f27_7a2775b8",
+        "filename": "rootdir/Android.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-08-04T02:45:58Z",
+      "side": 1,
+      "message": "could also use/try (not sure if it get defined before or after in build process)\n\nifeq ($TARGET_USERIMAGES_USE_F2FS),true)",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 24,
+        "endChar": 23
+      },
+      "revId": "8e55e3da62c7b928cedd3e8866fb4d76a92afbaf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
