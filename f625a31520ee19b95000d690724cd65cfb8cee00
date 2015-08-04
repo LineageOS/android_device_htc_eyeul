@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f0e0f27_f70cc043",
+        "filename": "rootdir/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 8964
+      },
+      "writtenOn": "2015-08-04T02:33:15Z",
+      "side": 0,
+      "message": "include $(CLEAR_VARS)\nLOCAL_MODULE       :\u003d fstab.qcom\nLOCAL_MODULE_TAGS  :\u003d optional eng\nLOCAL_MODULE_CLASS :\u003d ETC\nifeq ($(HOST_OS),linux)\nLOCAL_SRC_FILES    :\u003d etc/fstab.qcom\nelse\nLOCAL_SRC_FILES    :\u003d nof2fsfstab.qcom\nendif\nLOCAL_MODULE_PATH  :\u003d $(TARGET_ROOT_OUT)\ninclude $(BUILD_PREBUILT)",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 26,
+        "endChar": 25
+      },
+      "revId": "f625a31520ee19b95000d690724cd65cfb8cee00",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
