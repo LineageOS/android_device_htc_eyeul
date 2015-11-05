@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f2f7f8d_3ed0c850",
+        "filename": "camera/CameraParameters_EXT.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-11-05T06:32:58Z",
+      "side": 1,
+      "message": "Was going to say that you may want to correlate these with your actual blobs so you don\u0027t have unneeded symbols.",
+      "revId": "3375a157892bb80f31587abda088f58adcede516",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
